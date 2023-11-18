@@ -1,327 +1,327 @@
 ChampName = game.localPlayer:ChampionName()
 
 if ChampName == "Aatrox" then
-	require("scripts/INTAIO/aatrox")
+	require("scripts/HDAIO/aatrox")
 elseif ChampName == "Ahri" then
-	require("scripts/INTAIO/ahri")
+	require("scripts/HDAIO/ahri")
 elseif ChampName == "Akali" then
-	require("scripts/INTAIO/akali")
+	require("scripts/HDAIO/akali")
 elseif ChampName == "Alistar" then
-	require("scripts/INTAIO/alistar")
+	require("scripts/HDAIO/alistar")
 elseif ChampName == "Amumu" then
-	require("scripts/INTAIO/amumu")
+	require("scripts/HDAIO/amumu")
 elseif ChampName == "Anivia" then
-	require("scripts/INTAIO/anivia")
+	require("scripts/HDAIO/anivia")
 elseif ChampName == "Annie" then
-	require("scripts/INTAIO/annie")
+	require("scripts/HDAIO/annie")
 elseif ChampName == "Aphelios" then
-	require("scripts/INTAIO/aphelios")
+	require("scripts/HDAIO/aphelios")
 elseif ChampName == "Ashe" then
-	require("scripts/INTAIO/ashe")
+	require("scripts/HDAIO/ashe")
 elseif ChampName == "AurelionSol" then
-	require("scripts/INTAIO/aurelionsol")
+	require("scripts/HDAIO/aurelionsol")
 elseif ChampName == "Azir" then
-	require("scripts/INTAIO/azir")
+	require("scripts/HDAIO/azir")
 elseif ChampName == "Bard" then
-	require("scripts/INTAIO/bard")
+	require("scripts/HDAIO/bard")
 elseif ChampName == "Belveth" then
-	require("scripts/INTAIO/belveth")
+	require("scripts/HDAIO/belveth")
 elseif ChampName == "Blitzcrank" then
-	require("scripts/INTAIO/blitzcrank")
+	require("scripts/HDAIO/blitzcrank")
 elseif ChampName == "Brand" then
-	require("scripts/INTAIO/brand")
+	require("scripts/HDAIO/brand")
 elseif ChampName == "Braum" then
-	require("scripts/INTAIO/braum")
+	require("scripts/HDAIO/braum")
 elseif ChampName == "Caitlyn" then
-	require("scripts/INTAIO/caitlyn")
+	require("scripts/HDAIO/caitlyn")
 elseif ChampName == "Camille" then
-	require("scripts/INTAIO/camille")
+	require("scripts/HDAIO/camille")
 elseif ChampName == "Cassiopeia" then
-	require("scripts/INTAIO/cassiopeia")
+	require("scripts/HDAIO/cassiopeia")
 elseif ChampName == "Chogath" then
-	require("scripts/INTAIO/chogath")
+	require("scripts/HDAIO/chogath")
 elseif ChampName == "Corki" then
-	require("scripts/INTAIO/corki")
+	require("scripts/HDAIO/corki")
 elseif ChampName == "Darius" then
-	require("scripts/INTAIO/darius")
+	require("scripts/HDAIO/darius")
 elseif ChampName == "Diana" then
-	require("scripts/INTAIO/diana")
+	require("scripts/HDAIO/diana")
 elseif ChampName == "Draven" then
-	require("scripts/INTAIO/draven")
+	require("scripts/HDAIO/draven")
 elseif ChampName == "DrMundo" then
-	require("scripts/INTAIO/drmundo")
+	require("scripts/HDAIO/drmundo")
 elseif ChampName == "Ekko" then
-	require("scripts/INTAIO/ekko")
+	require("scripts/HDAIO/ekko")
 elseif ChampName == "Elise" then
-	require("scripts/INTAIO/elise")
+	require("scripts/HDAIO/elise")
 elseif ChampName == "Evelynn" then
-	require("scripts/INTAIO/evelynn")
+	require("scripts/HDAIO/evelynn")
 elseif ChampName == "Ezreal" then
-	require("scripts/INTAIO/ezreal")
+	require("scripts/HDAIO/ezreal")
 elseif ChampName == "FiddleSticks" then
-	require("scripts/INTAIO/fiddlesticks")
+	require("scripts/HDAIO/fiddlesticks")
 elseif ChampName == "Fiora" then
-	require("scripts/INTAIO/fiora")
+	require("scripts/HDAIO/fiora")
 elseif ChampName == "Fizz" then
-	require("scripts/INTAIO/fizz")
+	require("scripts/HDAIO/fizz")
 elseif ChampName == "Galio" then
-	require("scripts/INTAIO/galio")
+	require("scripts/HDAIO/galio")
 elseif ChampName == "Gangplank" then
-	require("scripts/INTAIO/gangplank")
+	require("scripts/HDAIO/gangplank")
 elseif ChampName == "Garen" then
-	require("scripts/INTAIO/garen")
+	require("scripts/HDAIO/garen")
 elseif ChampName == "Gnar" then
-	require("scripts/INTAIO/gnar")
+	require("scripts/HDAIO/gnar")
 elseif ChampName == "Gragas" then
-	require("scripts/INTAIO/gragas")
+	require("scripts/HDAIO/gragas")
 elseif ChampName == "Graves" then
-	require("scripts/INTAIO/graves")
+	require("scripts/HDAIO/graves")
 elseif ChampName == "Gwen" then
-	require("scripts/INTAIO/gwen")
+	require("scripts/HDAIO/gwen")
 elseif ChampName == "Hecarim" then
-	require("scripts/INTAIO/hecarim")
+	require("scripts/HDAIO/hecarim")
 elseif ChampName == "Heimerdinger" then
-	require("scripts/INTAIO/heimerdinger")
+	require("scripts/HDAIO/heimerdinger")
 elseif ChampName == "Illaoi" then
-	require("scripts/INTAIO/illaoi")
+	require("scripts/HDAIO/illaoi")
 elseif ChampName == "Irelia" then
-	require("scripts/INTAIO/irelia")
+	require("scripts/HDAIO/irelia")
 elseif ChampName == "Ivern" then
-	require("scripts/INTAIO/ivern")
+	require("scripts/HDAIO/ivern")
 elseif ChampName == "Janna" then
-	require("scripts/INTAIO/janna")
+	require("scripts/HDAIO/janna")
 elseif ChampName == "JarvanIV" then
-	require("scripts/INTAIO/jarvaniv")
+	require("scripts/HDAIO/jarvaniv")
 elseif ChampName == "Jax" then
-	require("scripts/INTAIO/jax")
+	require("scripts/HDAIO/jax")
 elseif ChampName == "Jayce" then
-	require("scripts/INTAIO/jayce")
+	require("scripts/HDAIO/jayce")
 elseif ChampName == "Jhin" then
-	require("scripts/INTAIO/jhin")
+	require("scripts/HDAIO/jhin")
 elseif ChampName == "Jinx" then
-	require("scripts/INTAIO/jinx")
+	require("scripts/HDAIO/jinx")
 elseif ChampName == "Kaisa" then
-	require("scripts/INTAIO/kaisa")
+	require("scripts/HDAIO/kaisa")
 elseif ChampName == "Kalista" then
-	require("scripts/INTAIO/kalista")
+	require("scripts/HDAIO/kalista")
 elseif ChampName == "Karma" then
-	require("scripts/INTAIO/karma")
+	require("scripts/HDAIO/karma")
 elseif ChampName == "Karthus" then
-	require("scripts/INTAIO/karthus")
+	require("scripts/HDAIO/karthus")
 elseif ChampName == "Kassadin" then
-	require("scripts/INTAIO/kassadin")
+	require("scripts/HDAIO/kassadin")
 elseif ChampName == "Katarina" then
-	require("scripts/INTAIO/katarina")
+	require("scripts/HDAIO/katarina")
 elseif ChampName == "Kayle" then
-	require("scripts/INTAIO/kayle")
+	require("scripts/HDAIO/kayle")
 elseif ChampName == "Kayn" then
-	require("scripts/INTAIO/kayn")
+	require("scripts/HDAIO/kayn")
 elseif ChampName == "Kennen" then
-	require("scripts/INTAIO/kennen")
+	require("scripts/HDAIO/kennen")
 elseif ChampName == "Khazix" then
-	require("scripts/INTAIO/khazix")
+	require("scripts/HDAIO/khazix")
 elseif ChampName == "Kindred" then
-	require("scripts/INTAIO/kindred")
+	require("scripts/HDAIO/kindred")
 elseif ChampName == "Kled" then
-	require("scripts/INTAIO/kled")
+	require("scripts/HDAIO/kled")
 elseif ChampName == "KogMaw" then
-	require("scripts/INTAIO/kogmaw")
+	require("scripts/HDAIO/kogmaw")
 elseif ChampName == "KSante" then
-	require("scripts/INTAIO/ksante")
+	require("scripts/HDAIO/ksante")
 elseif ChampName == "Leblanc" then
-	require("scripts/INTAIO/leblanc")
+	require("scripts/HDAIO/leblanc")
 elseif ChampName == "LeeSin" then
-	require("scripts/INTAIO/leesin")
+	require("scripts/HDAIO/leesin")
 elseif ChampName == "Leona" then
-	require("scripts/INTAIO/leona")
+	require("scripts/HDAIO/leona")
 elseif ChampName == "Lillia" then
-	require("scripts/INTAIO/lillia")
+	require("scripts/HDAIO/lillia")
 elseif ChampName == "Lissandra" then
-	require("scripts/INTAIO/lissandra")
+	require("scripts/HDAIO/lissandra")
 elseif ChampName == "Lucian" then
-	require("scripts/INTAIO/lucian")
+	require("scripts/HDAIO/lucian")
 elseif ChampName == "Lulu" then
-	require("scripts/INTAIO/lulu")
+	require("scripts/HDAIO/lulu")
 elseif ChampName == "Lux" then
-	require("scripts/INTAIO/lux")
+	require("scripts/HDAIO/lux")
 elseif ChampName == "Malphite" then
-	require("scripts/INTAIO/malphite")
+	require("scripts/HDAIO/malphite")
 elseif ChampName == "Malzahar" then
-	require("scripts/INTAIO/malzahar")
+	require("scripts/HDAIO/malzahar")
 elseif ChampName == "Maokai" then
-	require("scripts/INTAIO/maokai")
+	require("scripts/HDAIO/maokai")
 elseif ChampName == "MasterYi" then
-	require("scripts/INTAIO/masteryi")
+	require("scripts/HDAIO/masteryi")
 elseif ChampName == "Milio" then
-	require("scripts/INTAIO/milio")	
+	require("scripts/HDAIO/milio")	
 elseif ChampName == "MissFortune" then
-	require("scripts/INTAIO/missfortune")
+	require("scripts/HDAIO/missfortune")
 elseif ChampName == "Mordekaiser" then
-	require("scripts/INTAIO/mordekaiser")
+	require("scripts/HDAIO/mordekaiser")
 elseif ChampName == "Morgana" then
-	require("scripts/INTAIO/morgana")
+	require("scripts/HDAIO/morgana")
 elseif ChampName == "Nami" then
-	require("scripts/INTAIO/nami")
+	require("scripts/HDAIO/nami")
 elseif ChampName == "Naafiri" then
-	require("scripts/INTAIO/naafiri")
+	require("scripts/HDAIO/naafiri")
 elseif ChampName == "Nasus" then
-	require("scripts/INTAIO/nasus")
+	require("scripts/HDAIO/nasus")
 elseif ChampName == "Nautilus" then
-	require("scripts/INTAIO/nautilus")
+	require("scripts/HDAIO/nautilus")
 elseif ChampName == "Neeko" then
-	require("scripts/INTAIO/neeko")
+	require("scripts/HDAIO/neeko")
 elseif ChampName == "Nidalee" then
-	require("scripts/INTAIO/nidalee")
+	require("scripts/HDAIO/nidalee")
 elseif ChampName == "Nilah" then
-	require("scripts/INTAIO/nilah")
+	require("scripts/HDAIO/nilah")
 elseif ChampName == "Nocturne" then
-	require("scripts/INTAIO/nocturne")
+	require("scripts/HDAIO/nocturne")
 elseif ChampName == "Nunu" then
-	require("scripts/INTAIO/nunu")
+	require("scripts/HDAIO/nunu")
 elseif ChampName == "Olaf" then
-	require("scripts/INTAIO/olaf")
+	require("scripts/HDAIO/olaf")
 elseif ChampName == "Orianna" then
-	require("scripts/INTAIO/orianna")
+	require("scripts/HDAIO/orianna")
 elseif ChampName == "Ornn" then
-	require("scripts/INTAIO/ornn")
+	require("scripts/HDAIO/ornn")
 elseif ChampName == "Pantheon" then
-	require("scripts/INTAIO/pantheon")
+	require("scripts/HDAIO/pantheon")
 elseif ChampName == "Poppy" then
-	require("scripts/INTAIO/poppy")
+	require("scripts/HDAIO/poppy")
 elseif ChampName == "Pyke" then
-	require("scripts/INTAIO/pyke")
+	require("scripts/HDAIO/pyke")
 elseif ChampName == "Qiyana" then
-	require("scripts/INTAIO/qiyana")
+	require("scripts/HDAIO/qiyana")
 elseif ChampName == "Quinn" then
-	require("scripts/INTAIO/quinn")
+	require("scripts/HDAIO/quinn")
 elseif ChampName == "Rakan" then
-	require("scripts/INTAIO/rakan")
+	require("scripts/HDAIO/rakan")
 elseif ChampName == "Rammus" then
-	require("scripts/INTAIO/rammus")
+	require("scripts/HDAIO/rammus")
 elseif ChampName == "RekSai" then
-	require("scripts/INTAIO/reksai")
+	require("scripts/HDAIO/reksai")
 elseif ChampName == "Rell" then
-	require("scripts/INTAIO/rell")
+	require("scripts/HDAIO/rell")
 elseif ChampName == "Renata" then
-	require("scripts/INTAIO/renata")
+	require("scripts/HDAIO/renata")
 elseif ChampName == "Renekton" then
-	require("scripts/INTAIO/renekton")
+	require("scripts/HDAIO/renekton")
 elseif ChampName == "Rengar" then
-	require("scripts/INTAIO/rengar")
+	require("scripts/HDAIO/rengar")
 elseif ChampName == "Riven" then
-	require("scripts/INTAIO/riven")
+	require("scripts/HDAIO/riven")
 elseif ChampName == "Rumble" then
-	require("scripts/INTAIO/rumble")
+	require("scripts/HDAIO/rumble")
 elseif ChampName == "Ryze" then
-	require("scripts/INTAIO/ryze")
+	require("scripts/HDAIO/ryze")
 elseif ChampName == "Samira" then
-	require("scripts/INTAIO/samira")
+	require("scripts/HDAIO/samira")
 elseif ChampName == "Sejuani" then
-	require("scripts/INTAIO/sejuani")
+	require("scripts/HDAIO/sejuani")
 elseif ChampName == "Senna" then
-	require("scripts/INTAIO/senna")
+	require("scripts/HDAIO/senna")
 elseif ChampName == "Seraphine" then
-	require("scripts/INTAIO/seraphine")
+	require("scripts/HDAIO/seraphine")
 elseif ChampName == "Sett" then
-	require("scripts/INTAIO/sett")
+	require("scripts/HDAIO/sett")
 elseif ChampName == "Shaco" then
-	require("scripts/INTAIO/shaco")
+	require("scripts/HDAIO/shaco")
 elseif ChampName == "Shen" then
-	require("scripts/INTAIO/shen")
+	require("scripts/HDAIO/shen")
 elseif ChampName == "Shyvana" then
-	require("scripts/INTAIO/shyvana")
+	require("scripts/HDAIO/shyvana")
 elseif ChampName == "Singed" then
-	require("scripts/INTAIO/singed")
+	require("scripts/HDAIO/singed")
 elseif ChampName == "Sion" then
-	require("scripts/INTAIO/sion")
+	require("scripts/HDAIO/sion")
 elseif ChampName == "Sivir" then
-	require("scripts/INTAIO/sivir")
+	require("scripts/HDAIO/sivir")
 elseif ChampName == "Skarner" then
-	require("scripts/INTAIO/skarner")
+	require("scripts/HDAIO/skarner")
 elseif ChampName == "Sona" then
-	require("scripts/INTAIO/sona")
+	require("scripts/HDAIO/sona")
 elseif ChampName == "Soraka" then
-	require("scripts/INTAIO/soraka")
+	require("scripts/HDAIO/soraka")
 elseif ChampName == "Swain" then
-	require("scripts/INTAIO/swain")
+	require("scripts/HDAIO/swain")
 elseif ChampName == "Sylas" then
-	require("scripts/INTAIO/sylas")
+	require("scripts/HDAIO/sylas")
 elseif ChampName == "Syndra" then
-	require("scripts/INTAIO/syndra")
+	require("scripts/HDAIO/syndra")
 elseif ChampName == "TahmKench" then
-	require("scripts/INTAIO/tahmkench")
+	require("scripts/HDAIO/tahmkench")
 elseif ChampName == "Taliyah" then
-	require("scripts/INTAIO/taliyah")
+	require("scripts/HDAIO/taliyah")
 elseif ChampName == "Talon" then
-	require("scripts/INTAIO/talon")
+	require("scripts/HDAIO/talon")
 elseif ChampName == "Taric" then
-	require("scripts/INTAIO/taric")
+	require("scripts/HDAIO/taric")
 elseif ChampName == "Teemo" then
-	require("scripts/INTAIO/teemo")
+	require("scripts/HDAIO/teemo")
 elseif ChampName == "Thresh" then
-	require("scripts/INTAIO/thresh")
+	require("scripts/HDAIO/thresh")
 elseif ChampName == "Tristana" then
-	require("scripts/INTAIO/tristana")
+	require("scripts/HDAIO/tristana")
 elseif ChampName == "Trundle" then
-	require("scripts/INTAIO/trundle")
+	require("scripts/HDAIO/trundle")
 elseif ChampName == "Tryndamere" then
-	require("scripts/INTAIO/tryndamere")
+	require("scripts/HDAIO/tryndamere")
 elseif ChampName == "TwistedFate" then
-	require("scripts/INTAIO/twistedfate")
+	require("scripts/HDAIO/twistedfate")
 elseif ChampName == "Twitch" then
-	require("scripts/INTAIO/twitch")
+	require("scripts/HDAIO/twitch")
 elseif ChampName == "Udyr" then
-	require("scripts/INTAIO/udyr")
+	require("scripts/HDAIO/udyr")
 elseif ChampName == "Urgot" then
-	require("scripts/INTAIO/urgot")
+	require("scripts/HDAIO/urgot")
 elseif ChampName == "Varus" then
-	require("scripts/INTAIO/varus")
+	require("scripts/HDAIO/varus")
 elseif ChampName == "Vayne" then
-	require("scripts/INTAIO/vayne")
+	require("scripts/HDAIO/vayne")
 elseif ChampName == "Veigar" then
-	require("scripts/INTAIO/veigar")
+	require("scripts/HDAIO/veigar")
 elseif ChampName == "Velkoz" then
-	require("scripts/INTAIO/velkoz")
+	require("scripts/HDAIO/velkoz")
 elseif ChampName == "Vex" then
-	require("scripts/INTAIO/vex")
+	require("scripts/HDAIO/vex")
 elseif ChampName == "Vi" then
-	require("scripts/INTAIO/vi")
+	require("scripts/HDAIO/vi")
 elseif ChampName == "Viego" then
-	require("scripts/INTAIO/viego")
+	require("scripts/HDAIO/viego")
 elseif ChampName == "Viktor" then
-	require("scripts/INTAIO/viktor")
+	require("scripts/HDAIO/viktor")
 elseif ChampName == "Vladimir" then
-	require("scripts/INTAIO/vladimir")
+	require("scripts/HDAIO/vladimir")
 elseif ChampName == "Volibear" then
-	require("scripts/INTAIO/volibear")
+	require("scripts/HDAIO/volibear")
 elseif ChampName == "Warwick" then
-	require("scripts/INTAIO/warwick")
+	require("scripts/HDAIO/warwick")
 elseif ChampName == "MonkeyKing" then
-	require("scripts/INTAIO/wukong")
+	require("scripts/HDAIO/wukong")
 elseif ChampName == "Xayah" then
-	require("scripts/INTAIO/xayah")
+	require("scripts/HDAIO/xayah")
 elseif ChampName == "Xerath" then
-	require("scripts/INTAIO/xerath")
+	require("scripts/HDAIO/xerath")
 elseif ChampName == "XinZhao" then
-	require("scripts/INTAIO/xinzhao")
+	require("scripts/HDAIO/xinzhao")
 elseif ChampName == "Yasuo" then
-	require("scripts/INTAIO/yasuo")
+	require("scripts/HDAIO/yasuo")
 elseif ChampName == "Yone" then
-	require("scripts/INTAIO/yone")
+	require("scripts/HDAIO/yone")
 elseif ChampName == "Yorick" then
-	require("scripts/INTAIO/yorick")
+	require("scripts/HDAIO/yorick")
 elseif ChampName == "Yuumi" then
-	require("scripts/INTAIO/yuumi")
+	require("scripts/HDAIO/yuumi")
 elseif ChampName == "Zac" then
-	require("scripts/INTAIO/zac")
+	require("scripts/HDAIO/zac")
 elseif ChampName == "Zed" then
-	require("scripts/INTAIO/zed")
+	require("scripts/HDAIO/zed")
 elseif ChampName == "Ziggs" then
-	require("scripts/INTAIO/ziggs")
+	require("scripts/HDAIO/ziggs")
 elseif ChampName == "Zilean" then
-	require("scripts/INTAIO/zilean")
+	require("scripts/HDAIO/zilean")
 elseif ChampName == "Zoe" then
-	require("scripts/INTAIO/zoe")
+	require("scripts/HDAIO/zoe")
 elseif ChampName == "Zyra" then
-	require("scripts/INTAIO/zyra")
+	require("scripts/HDAIO/zyra")
 end
