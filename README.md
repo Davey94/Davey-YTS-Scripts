@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Use the davey_script_updater.lua or go to https://github.com/Davey94/Davey-YTS-Script to manually check for updates. Purchase a license key here: https://payhip.com/YTSScriptsDavey</p>
+<p align="left">Keep davey_script_updater.lua in "Scripts" for Update or go to https://github.com/Davey94/Davey-YTS-Script to manually download updates. Purchase a license key here: https://payhip.com/YTSScriptsDavey</p>
 
 ###
 
-<p align="left">Suggested YTS Settings: Increase Draw and Combo Tick sliders to max. Enable "Magic Mode". If you have problems, delete the config file in YTS folder.</p>
+<p align="left">Suggested YTS Settings: Increase Draw and Combo Tick sliders to max. Enable "Magic Mode". If you have problems, delete the config file in YTS folder, then adjust settings again.</p>
 
 ###
 
