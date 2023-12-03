@@ -8,4 +8,4 @@ Suggested YTS Settings:
 Increase Draw and Combo Tick sliders to max. 
 Enable "Magic Mode".
 
-![Champion List](https://media.discordapp.net/attachments/1173004730881032332/1180609800741081208/my-image.png?ex=657e0b8f&is=656b968f&hm=0eb2eb8436eb285f64fbd293b406b0ab9cd985e6f21bf95ffd227e841373ab03&=&format=webp&quality=lossless&width=1425&height=695)
+![Champion List](https://media.discordapp.net/attachments/1173004730881032332/1180925227761422407/my-image_1.png?ex=657f3152&is=656cbc52&hm=aef822b209d22d2b535620a0cf6268ce953869da4bd1d3ea47903a73d5dfc3bb&=&format=webp&quality=lossless&width=1425&height=695)
