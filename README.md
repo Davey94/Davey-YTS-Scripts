@@ -1,4 +1,4 @@
-<p align="left">Download and put everything inside "YTS" in your folder where yts exe is located. You did it right if davey.txt is in the same place as the yts .exe. You can download it all at once by clicking on "code" and then "Download ZIP". All the Scripts files are inside the HDAIO folder.</p>
+<p align="left">Download and put everything inside "YTS" in your folder where yts exe is located. You did it right if davey.txt is in the same place as the yts .exe. You can download it all at once here https://github.com/Davey94/Davey-YTS-Scripts/archive/refs/heads/master.zip. All the Scripts files are inside the HDAIO folder.</p>
 
 ###
 
