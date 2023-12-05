@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Suggested YTS Settings: Increase Draw and Combo Tick sliders to max. Enable "Magic Mode". If you have problems, delete the config file in YTS folder, then adjust settings again. Some champs like Orianna need default skin to work!</p>
+<p align="left">Suggested YTS Settings: Increase Draw and Combo Tick sliders to max. Enable "Magic Mode". If you have problems, delete the config file in YTS folder, then adjust settings again.</p>
 
 ###
 
