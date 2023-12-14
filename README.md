@@ -10,4 +10,4 @@
 
 ###
 
-![Champion List](https://media.discordapp.net/attachments/1173004730881032332/1184571565493473381/my-image_9.png?ex=658c753d&is=657a003d&hm=39d0c27ed145b289caa2342171083709ca1085a50991f83a225c8fb174ccef5c&=&format=webp&quality=lossless&width=937&height=532)
+![Champion List](https://media.discordapp.net/attachments/1173004730881032332/1184893506259521697/my-image_10.png?ex=658da112&is=657b2c12&hm=7f5d0ccc99536511043f02b6ebf45d09e5a716de35b1bcfabb5868e431dd2a6a&=&format=webp&quality=lossless&width=1425&height=808)
