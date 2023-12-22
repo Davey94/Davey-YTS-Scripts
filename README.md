@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Keep davey_script_updater.lua in "Scripts" for Update or go to https://github.com/Davey94/Davey-YTS-Script to manually download updates. Purchase a license key here: https://payhip.com/YTSScriptsDavey</p>
+<p align="left">Go to https://github.com/Davey94/Davey-YTS-Script to download updates. Purchase a license key here: https://payhip.com/YTSScriptsDavey</p>
 
 ###
 
