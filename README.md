@@ -2,8 +2,9 @@
 
 ###
 
-<p align="left">Go to https://github.com/Davey94/Davey-YTS-Script to download updates. Alternatively you can download this tool to update the scripts, however Anti-Virus will probably complain: https://github.com/Davey94/YTS_Tools/raw/main/DaveyUpdater.exe 
-Purchase a license key here: https://payhip.com/YTSScriptsDavey</p>
+<p align="left">Go to https://github.com/Davey94/Davey-YTS-Script to download updates. Alternatively you can download this tool to update the scripts, however Anti-Virus will probably complain: https://github.com/Davey94/YTS_Tools/raw/main/DaveyUpdater.exe</p>
+
+<p align="left">Purchase a license key here: https://payhip.com/YTSScriptsDavey</p>
 
 ###
 
