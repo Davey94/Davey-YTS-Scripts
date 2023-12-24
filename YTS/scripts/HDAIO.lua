@@ -316,6 +316,8 @@ elseif ChampName == "Zac" then
 	require("scripts/HDAIO/zac")
 elseif ChampName == "Zed" then
 	require("scripts/HDAIO/zed")
+elseif ChampName == "Zeri" then
+	require("scripts/HDAIO/zeri")
 elseif ChampName == "Ziggs" then
 	require("scripts/HDAIO/ziggs")
 elseif ChampName == "Zilean" then
