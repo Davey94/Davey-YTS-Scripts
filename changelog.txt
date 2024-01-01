@@ -102,3 +102,9 @@ added "auto switch forms" option for jungle clear
 
 Update Rengar:
 fixed empowered modes
+
+Update Akali:
+fixed R damage calculation
+uses both R1 and R2 for "Auto R" correctly now
+fixed not using second E
+added "Last hit Cannon with Q" Farm option
