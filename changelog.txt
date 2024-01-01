@@ -133,3 +133,8 @@ fixed E
 fixed "Auto Q to kill enemy Champ"
 added W usage to combo
 added option to let go of W if outside combo
+
+Update Kalista:
+fixed Q into enemy when kiting away
+fixed Q collision detection
+adjusted minion gapclose to support kiting away
