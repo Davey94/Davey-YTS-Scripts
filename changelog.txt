@@ -110,4 +110,8 @@ fixed not using second E
 added "Last hit Cannon with Q" Farm option
 
 Update Katarina:
-Improved Combo
+improved Combo
+
+Update Kogmaw: 
+added "Draw W CD" option
+added "Draw Killable with R circle" option
