@@ -127,3 +127,9 @@ adjusted Q
 Update Kassadin:
 fixed E range
 added "Q last hit all minions" option
+
+Update Nunu:
+fixed E
+fixed "Auto Q to kill enemy Champ"
+added W usage to combo
+added option to let go of W if outside combo
