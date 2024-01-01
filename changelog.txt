@@ -112,6 +112,9 @@ added "Last hit Cannon with Q" Farm option
 Update Katarina:
 improved Combo
 
+
+
+01.01.2024
 Update Kogmaw: 
 added "Draw W CD" option
 added "Draw Killable with R circle" option
