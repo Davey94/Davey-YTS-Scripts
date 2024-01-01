@@ -1,0 +1,101 @@
+26.12.2023
+Update Lux: improved combo logic and added E poke to mixed
+update Senna: added soul pickup to last hit mode
+update senna: Added options to Q through minions and Q through allies
+update Zed: fixed crash
+
+
+
+27.12.2023
+Update Garen:
+Q AA reset option
+Q Gapclose option
+Auto W on inc CC option
+
+Update Evelynn:
+improved combo
+added options to use E on big and small jungle
+
+Update Fiddlesticks:
+improved E prediction
+added options to use W at close range or max range
+
+Update Yone:
+fixed E back before ult
+added E back on execute option
+added Q stacking on minion option
+
+Update KogMaw:
+added option to Q Farm outside AA range
+added always Q jungle option
+
+Update Wukong:
+Improved Combo
+removed max Range Q from combo to always AA reset
+Max Range Q Poke in mixed option
+
+Update Tristana:
+Added "Use W" key toggle option
+
+Update Zilean:
+Removed W Usage from Mixed Mod
+
+
+
+28.12.2023
+Update Kindred:
+fixed Q to mouse
+
+Update Vayne:
+fixed Q to mouse
+improved combo
+fixed issues with kiting
+
+Update Leona:
+new Drawings Menu
+
+Update Tristana:
+Fixed W crash
+Made W toggle turn off after use
+
+Update Kennen:
+Improved Q farm
+Added solo kill R option
+
+Update Jhin:
+R Casts at Max Speed now
+R no longer interrupted by other spells
+Improved Q Farm
+
+
+
+29.12.2023
+Update Nilah: improved Q farm
+Update Kboxx Blitzcrank: adjusted and fixed some stuff
+
+
+
+30.12.2023
+Update Lulu: fixed Auto E
+Update Annie: Improved Q farm and added "keep Q stun alive" key toggle option to farm
+Update Pantheon: added empowered ability selection
+Update Sivir: added spellshield targeted abilities option, off by default since risky
+Update Nilah: fixed mixed crash and added Q farm last hit
+Update Akali: fixed Q during E dash and added new draw menu
+
+
+
+31.12.2023
+Update Masteryi:
+improved auto Q dodge on CC
+made "Q to engage" a key toggle
+
+Update Kassadin:
+added "Last hit Cannon with Q" option
+added "Dodge CC with R" option (to mouse position)
+
+Update Swain:
+improved E prediction
+
+Update Elise:
+added "auto switch forms" option for jungle clear
