@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">Suggested YTS Settings: Increase Draw and Combo Tick sliders to max. Enable "Magic Mode". Bind "Combo Mode" to another key than space (otherwise delay). If you have problems, delete the config file in YTS folder, then adjust settings again.</p>
+<p align="left">Suggested YTS Settings: Increase Draw and Combo Tick sliders to max. Enable "Magic Mode". Bind "Combo Mode" to another key than space (otherwise delay). Orbwalker: Waypoint analysis Off,
+OnNewPath ON. If you have problems, delete the config file in YTS folder, then adjust settings again.</p>
 
 ###
 
