@@ -118,3 +118,5 @@ improved Combo
 Update Kogmaw: 
 added "Draw W CD" option
 added "Draw Killable with R circle" option
+
+Added Zeri
