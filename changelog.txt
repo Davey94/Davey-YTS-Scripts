@@ -99,3 +99,6 @@ improved E prediction
 
 Update Elise:
 added "auto switch forms" option for jungle clear
+
+Update Rengar:
+fixed empowered modes
