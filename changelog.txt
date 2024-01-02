@@ -1,4 +1,14 @@
 02.01.2024
+Update Davey_Tool:
+Added Mode Indicator
+Changed menu layout
+
+Update Draven:
+fixed axe drawings
+
+Update Kalista:
+fixed crash
+
 added Veigar
 
 Update Chogath:
@@ -12,6 +22,7 @@ Added "E back on CC" Option
 
 Update Sivir:
 Fixed Spellshield Usage when already evading
+
 
 
 01.01.2024
