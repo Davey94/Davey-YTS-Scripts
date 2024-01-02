@@ -15,4 +15,4 @@ OnNewPath ON. If you have problems, delete the config file in YTS folder, then a
 
 ###
 
-![Champion List](https://media.discordapp.net/attachments/1173004730881032332/1191395789713449091/my-image_11.png?ex=65a548cb&is=6592d3cb&hm=1457dd406ed62c103060033b7cea6fa713fbc3e20274e91584f1b6384f3499fc&=&format=webp&quality=lossless&width=821&height=532)
+![Champion List](https://media.discordapp.net/attachments/1173004730881032332/1191558586543906867/my-image_12.png?ex=65a5e069&is=65936b69&hm=c05df9c5de0c95260e67f4d205e065fa05fd9b95ae84694077f01beaacc1d11d&=&format=webp&quality=lossless&width=731&height=532)
