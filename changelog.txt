@@ -138,3 +138,8 @@ Update Kalista:
 fixed Q into enemy when kiting away
 fixed Q collision detection
 adjusted minion gapclose to support kiting away
+
+
+
+02.01.2024
+added Veigar
