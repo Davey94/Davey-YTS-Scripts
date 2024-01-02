@@ -146,6 +146,6 @@ added Veigar
 
 Update Chogath:
 improved Q prediction
-added "auto R minion" option
+added "auto R minion" option (pre 6 stacks)
 added "auto R objective" option
 made E an AA reset
