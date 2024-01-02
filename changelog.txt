@@ -149,3 +149,6 @@ improved Q prediction
 added "auto R minion" option (pre 6 stacks)
 added "auto R objective" option
 made E an AA reset
+
+Update Yone:
+Added "E back on CC" Option
