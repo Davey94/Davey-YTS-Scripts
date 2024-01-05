@@ -1,7 +1,7 @@
 05.01.2024
 Update Zeri:
 added passive execute for farm
-added auto passive excecute for Champs
+added auto passive execute for Champs
 
 
 
