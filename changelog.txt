@@ -3,6 +3,9 @@ Update Zeri:
 added passive execute for farm
 added auto passive execute for Champs
 
+Update Kaisa:
+Added buffer for gapclose E
+
 
 
 04.01.2024
