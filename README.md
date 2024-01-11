@@ -11,7 +11,7 @@
 ###
 
 <p align="left">Suggested YTS Settings:</p>
-* Increase Draw and Combo Tick sliders to max.
+* Increase Draw and Combo Tick sliders to max.  
 * Enable "Magic Mode".
 - Bind "Combo Mode" to another key than space (otherwise delay).
 - Prediction: Waypoint analysis Off, OnNewPath ON
