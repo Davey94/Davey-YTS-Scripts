@@ -14,8 +14,8 @@
 
 ###
 
-* Increase Draw and Combo Tick sliders to max.  
-* Enable "Magic Mode".
+- Increase Draw and Combo Tick sliders to max.  
+- Enable "Magic Mode".
 - Bind "Combo Mode" to another key than space (otherwise delay).
 - Prediction: Waypoint analysis Off, OnNewPath ON
 - Turn off "AA Cancel Check Beta" in Orbwalker => Configuration.  
