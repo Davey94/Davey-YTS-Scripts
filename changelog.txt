@@ -11,6 +11,9 @@ improved combo logic on low HP target
 Update Jinx:
 fixed clunky Q switch during farm
 
+Update Kogmaw:
+added auto R kill option outside AA range
+
 
 
 11.01.2024
