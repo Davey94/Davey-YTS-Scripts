@@ -1,3 +1,18 @@
+12.01.2024
+Update Ezreal:
+added manual E keybind
+
+Update Lux:
+fixed Q prediction
+
+Update Qiyana:
+improved combo logic on low HP target
+
+Update Jinx:
+fixed clunky Q switch during farm
+
+
+
 11.01.2024
 Update Blitzcrank:
 changed prediction
