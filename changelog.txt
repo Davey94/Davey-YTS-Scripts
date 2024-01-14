@@ -1,3 +1,16 @@
+14.01.2024
+Update Qiyana:
+new combo logic
+
+Update Daveytool:
+added Item Support
+Hydras, Potions, Zhonyas, Randiuns
+
+Update Zed:
+Fixed All In Combo and reduced Q delay
+
+
+
 12.01.2024
 Update Ezreal:
 added manual E keybind
