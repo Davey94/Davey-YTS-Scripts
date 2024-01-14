@@ -3,11 +3,11 @@ Update Qiyana:
 new combo logic
 
 Update Daveytool:
-added Item Support
-Hydras, Potions, Zhonyas, Randiuns
+added item support
+hydras, potions, zhonyas, randiuns
 
 Update Zed:
-Fixed All In Combo and reduced Q delay
+fixed All In Combo and reduced Q delay
 
 
 
