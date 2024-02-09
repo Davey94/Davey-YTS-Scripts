@@ -228,6 +228,8 @@ elseif ChampName == "Shaco" then
 	require("scripts/HDAIO/shaco")
 elseif ChampName == "Shen" then
 	require("scripts/HDAIO/shen")
+elseif ChampName == "Smolder" then
+	require("scripts/HDAIO/smolder")
 elseif ChampName == "Shyvana" then
 	require("scripts/HDAIO/shyvana")
 elseif ChampName == "Singed" then
